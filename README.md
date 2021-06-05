@@ -1,7 +1,7 @@
 <h1>DATA+ : First-Year-Project</h1>
 <br>
-<img src="https://github.com/Deepakg1105/Hello-world/blob/master/csvDemo.gif" alt=".csv demo" style="float: left; margin-right: 10px;" />
-<img src="https://github.com/Deepakg1105/Hello-world/blob/master/txtDemo.gif" alt=".txt demo" style="float: left; margin-right: 10px;"/> <br>
+<img src="https://github.com/Deepakg1105/Hello-world/blob/master/csvDemo.gif" alt=".csv demo" style="float: left; margin-left: 10px; width: 50%" />
+<img src="https://github.com/Deepakg1105/Hello-world/blob/master/txtDemo.gif" alt=".txt demo" style="float: right; margin-right: 10px; width: 50%"/> <br>
 
 
 <br><br>
