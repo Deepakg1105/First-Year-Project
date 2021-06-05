@@ -3,7 +3,7 @@
 <img src="https://github.com/Deepakg1105/Hello-world/blob/master/csvDemo.gif" alt=".csv demo" align="left" width="485" />
 <img src="https://github.com/Deepakg1105/Hello-world/blob/master/txtDemo.png" alt=".txt demo" align="right" width="485" />
 
-<br>
+<br><br><br>
 <b>Description</b><br>
 This was the simple and very easy project I created during my first year(in 2nd sem) of engineering for INSPARK, 2019.The project(program) is to Encrypt the data of any given file. Here the encryption means to make the content of file into unreadable form based which can be done by user through simply setting a pin/password. The user can decrypt the same file by entering the same pin. 
 <br><br>
