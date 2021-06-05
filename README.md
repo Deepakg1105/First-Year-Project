@@ -1,10 +1,9 @@
 <h1>DATA+ : First-Year-Project</h1>
 <br>
-<img src="https://github.com/Deepakg1105/Hello-world/blob/master/csvDemo.gif" alt=".csv demo" style="float: left; margin-left: 10px; width: 50%" />
-<img src="https://github.com/Deepakg1105/Hello-world/blob/master/txtDemo.gif" alt=".txt demo" style="float: right; margin-right: 10px; width: 50%"/> <br>
+<img src="https://github.com/Deepakg1105/Hello-world/blob/master/txtDemo.txt" align == 'left' alt=".txt demo" style="float: right; margin-right: 10px; width:600"/> <br>
+<img src="https://github.com/Deepakg1105/Hello-world/blob/master/csvDemo.gif" align = 'right' alt=".csv demo" style="float: left; margin-left: 10px; width: 600" />
 
-
-<br><br>
+<br>
 <b>Description</b><br>
 This was the simple and very easy project I created during my first year(in 2nd sem) of engineering for INSPARK, 2019.The project(program) is to Encrypt the data of any given file. Here the encryption means to make the content of file into unreadable form based which can be done by user through simply setting a pin/password. The user can decrypt the same file by entering the same pin. 
 <br><br>
@@ -35,7 +34,7 @@ The file content is <i>“NOOZKU”</i>, ask for user for pin, do maths( what we
 “NOOZKU” => “DEEPAK”. That’s it.
 <br><br>
 <b>Application :</b> <br>
-The project can be used for data privacy for our private files like for file containg passwords for different accounts as many people save them into a file(not easy to remember so many passwords 🤯️).So if some other person finds that, he will not able to recognize what the content is, or will recognise some wrong content!, and the funny part is he/she don’t know that content is in encrypted form. :sunglasses:
+The project can be used for data privacy for our private files like for file containg passwords for different accounts as many people save them into a file(not easy to remember so many passwords 🤯️).So if some other person finds that, he will not able to recognize what the content is, or will recognise some wrong content!, and the funny part is he/she don’t know that content is in encrypted form :sunglasses: .
 <br>
 <br>
 <b>Warning/Bottleneck :</b><br> Pin/password should be same during encryption time otherwise the content will be converted to some unexpected according to pin enterd as there is no record/history of pin/password inside the program<br>
