@@ -1,8 +1,8 @@
 <h1>DATA+ : First-Year-Project</h1>
 <br>
-<img src="https://drive.google.com/file/d/1iImiUa36-95nvbtRpQNKQFuA8RAyMbd1/view?usp=sharing" alt=".csv demo" style="float: left; margin-right: 10px;" />
-<img src="https://github.com/Deepakg1105/Hello-world/blob/master/csvDemo.jpg" alt=".txt demo" style="float: left; margin-right: 10px;"/> <br>
-<img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/YOUTUBE%20THUMBNAIL-5.png">
+<img src="https://github.com/Deepakg1105/Hello-world/blob/master/csvDemo.gif" alt=".csv demo" style="float: left; margin-right: 10px;" />
+<img src="https://github.com/Deepakg1105/Hello-world/blob/master/txtDemo.gif" alt=".txt demo" style="float: left; margin-right: 10px;"/> <br>
+
 
 <br><br>
 <b>Description</b><br>
