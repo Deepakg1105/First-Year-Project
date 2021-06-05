@@ -1,6 +1,6 @@
 <h1>DATA+ : First-Year-Project</h1>
 <br>
-<img src="https://github.com/Deepakg1105/Hello-world/blob/master/txtDemo.txt" alt=".txt demo" align="left" width="100" /> <br>
+<img src="https://github.com/Deepakg1105/Hello-world/blob/master/txtDemo.png" alt=".txt demo" align="left" width="100" /> <br>
 <img src="https://github.com/Deepakg1105/Hello-world/blob/master/csvDemo.gif" align="right" alt=".csv demo" style="float: left; margin-left: 10px; width: 600" />
 
 <br>
