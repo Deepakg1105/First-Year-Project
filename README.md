@@ -5,7 +5,7 @@
 
 <br><br>
 <b>Description</b><br>
-This was the simple and very easy project I created during my first year(in 2nd sem) of engineering for INSPARK, 2019.The project(program) is to Encrypt the data of any given file. Here the encryption means to make the content of file into unreadable form based which can be done by user through simply setting a pin/password. The user can decrypt the same file by entering the same pin. 
+This is a simple and very easy project I created during my first year(in 2nd sem) of engineering for INSPARK, 2019.The project is to Encrypt the data of any given file. Here the encryption means to make the content of file into unreadable form which can be done through simply setting a pin/password. The user can decrypt the same file by entering the same pin. The project is also capable of some file operations like creating a new file to write into it, reading a file, modifying existing file, etc.
 <br><br>
 <b>Prerequisites</b><br>
 <li>Basic programming concepts.<br>
